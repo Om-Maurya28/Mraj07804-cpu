@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Om Maurya 👋
 
-<!--
-**mraj07804-cpu/Mraj07804-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.Tech CSE Student at Plastindia International University
+📍 Vapi, Gujarat, India
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
+• Arduino Uno
+• Python Programming
+• IoT and Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested In:
+• Data Science
+• Machine Learning
+• Software Development
+
+🚀 Working on:
+• Automatic Plant Watering System
+• ESP32 and Sensor-Based Projects
+
+📫 GitHub: Mraj07804-cpu
