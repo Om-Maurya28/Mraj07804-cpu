@@ -17,4 +17,4 @@ Hi, I'm Om Maurya 👋
 • Automatic Plant Watering System
 • ESP32 and Sensor-Based Projects
 
-📫 GitHub: Mraj07804-cpu
+📫 GitHub: Om-Maurya28
