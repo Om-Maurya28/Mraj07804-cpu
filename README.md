@@ -11,7 +11,7 @@ Hi, I'm Om Maurya 👋
 💡 Interested In:
 • Data Science
 • Machine Learning
-• Software Development
+• cyber security
 
 🚀 Working on:
 • Automatic Plant Watering System
